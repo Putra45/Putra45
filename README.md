@@ -24,5 +24,8 @@ Passionate about building scalable web applications, automating workflows, and d
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Putra45&show_icons=true&theme=tokyonight&hide_border=true" alt="Putra's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Putra45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Putra's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Putra45&theme=tokyonight&hide_border=true" alt="Putra's Streak" />
 </p>
